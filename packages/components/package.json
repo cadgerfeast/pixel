@@ -1,0 +1,40 @@
+{
+  "name": "@pixel/components",
+  "description": "Pixel Slithe Theme",
+  "version": "0.1.0",
+  "type": "module",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "exports": {
+    ".": "./dist/index.js",
+    "./global.css": "./dist/global.css"
+  },
+  "scripts": {
+    "dev": "vite build --watch",
+    "build": "vite build"
+  },
+  "keywords": [
+    "pixel",
+    "components",
+    "pixel-components"
+  ],
+  "author": "Jérémie Pichon <contact@cadgerfeast.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "sass": "^1.82.0",
+    "slithe": "^0.6.1",
+    "typescript": "^5.7.2",
+    "vite": "^6.0.3",
+    "vite-plugin-dts": "^4.3.0"
+  },
+  "dependencies": {
+    "@pixel/fonts": "*",
+    "@pixel/icons": "*"
+  },
+  "peerDependencies": {
+    "slithe": "^0.6.1"
+  }
+}

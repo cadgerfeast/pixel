@@ -1,0 +1,11 @@
+{
+	"compilerOptions": {
+		"module": "node16",
+		"types": ["vite/client"],
+		"declaration": true,
+		"declarationMap": true
+	},
+	"include": [
+		"src/**/*"
+	]
+}

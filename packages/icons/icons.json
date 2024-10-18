@@ -1,0 +1,135 @@
+{
+  "bronze-coin": {
+    "tags": [
+      "currency"
+    ]
+  },
+  "chat": {
+    "tags": [
+      "media"
+    ]
+  },
+  "chevron-left": {
+    "tags": [
+      "arrows"
+    ]
+  },
+  "chevron-right": {
+    "tags": [
+      "arrows"
+    ]
+  },
+  "circuit": {
+    "tags": [
+      "electrical"
+    ]
+  },
+  "code": {
+    "tags": [
+      "code"
+    ]
+  },
+  "cross": {
+    "tags": [
+      "mathematics"
+    ]
+  },
+  "diamond": {
+    "tags": [
+      "currency"
+    ]
+  },
+  "dino": {
+    "tags": [
+      "animal"
+    ]
+  },
+  "eye": {
+    "tags": [
+      "anatomy"
+    ]
+  },
+  "facebook": {
+    "tags": [
+      "social"
+    ]
+  },
+  "floppy-disk": {
+    "tags": [
+      "storage"
+    ]
+  },
+  "gold-coin": {
+    "tags": [
+      "currency"
+    ]
+  },
+  "github": {
+    "tags": [
+      "code",
+      "social"
+    ]
+  },
+  "home": {
+    "tags": [
+      "buildings"
+    ]
+  },
+  "internet-explorer": {
+    "tags": [
+      "code",
+      "browsers"
+    ]
+  },
+  "linkedin": {
+    "tags": [
+      "social"
+    ]
+  },
+  "phone": {
+    "tags": [
+      "media"
+    ]
+  },
+  "pipe-top": {
+    "tags": [
+      "mario"
+    ]
+  },
+  "pizza-slice": {
+    "tags": [
+      "food"
+    ]
+  },
+  "refresh": {
+    "tags": [
+      "arrows",
+      "browsers"
+    ]
+  },
+  "silver-coin": {
+    "tags": [
+      "currency"
+    ]
+  },
+  "skull": {
+    "tags": [
+      "anatomy"
+    ]
+  },
+  "twitter": {
+    "tags": [
+      "social"
+    ]
+  },
+  "whatsapp": {
+    "tags": [
+      "social"
+    ]
+  },
+  "youtube": {
+    "tags": [
+      "social"
+    ]
+  }
+}

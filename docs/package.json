@@ -1,0 +1,15 @@
+{
+	"name": "docs",
+	"private": true,
+	"type": "module",
+	"scripts": {
+		"dev": "slithe playground dev",
+		"build": "slithe playground build",
+		"preview": "slithe playground preview"
+	},
+	"devDependencies": {
+    "@pixel/components": "*",
+		"@slithe/playground": "^0.0.6",
+		"slithe": "^0.6.1"
+	}
+}

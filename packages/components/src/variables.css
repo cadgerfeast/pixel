@@ -1,0 +1,67 @@
+/* Common */
+html {
+  --slithe-pixel-font-family: 'PixelArial';
+  --slithe-pixel-transparent: transparent;
+}
+/* Light */
+html[sl-theme=light] {
+  --slithe-pixel-text-color: #FFFFFF;
+  --slithe-pixel-text-color-2: #448AFF;
+  --slithe-pixel-text-color-3: #000000;
+
+  --slithe-pixel-background-color-2: #FFFFFF;
+  
+  --slithe-pixel-background-color: #448AFF;
+  --slithe-pixel-background-color-hover: #2476ff;
+  --slithe-pixel-background-color-active: #0362ff;
+
+  --slithe-pixel-background-color-primary: #FFAF2B;
+  --slithe-pixel-background-color-primary-hover: #ffa40d;
+  --slithe-pixel-background-color-primary-active: #ee9400;
+
+  --slithe-pixel-background-color-danger: #CC0000;
+  --slithe-pixel-background-color-danger-hover: #b80000;
+  --slithe-pixel-background-color-danger-active: #a30000;
+
+  --slithe-pixel-border-color: #000000;
+  --slithe-pixel-border-color-2: #1a1a1a;
+
+  --slithe-pixel-background-color-transparent: transparent;
+  --slithe-pixel-background-color-transparent-hover: rgba(0, 0, 0, .1);
+  --slithe-pixel-background-color-transparent-active: rgba(0, 0, 0, .2);
+
+  --slithe-pixel-outline-inset-color: #FFFFFF;
+  --slithe-pixel-before-border-light: rgba(255, 255, 255, .25);
+  --slithe-pixel-before-border-dark: rgba(0, 0, 0, .25);
+}
+/* Dark */
+html[sl-theme=dark] {
+  --slithe-pixel-text-color: #000000;
+  --slithe-pixel-text-color-2: #448AFF;
+  --slithe-pixel-text-color-3: #FFFFFF;
+
+  --slithe-pixel-background-color-2: #000000;
+
+  --slithe-pixel-background-color: #448AFF;
+  --slithe-pixel-background-color-hover: #2476ff;
+  --slithe-pixel-background-color-active: #0362ff;
+
+  --slithe-pixel-background-color-primary: #FFAF2B;
+  --slithe-pixel-background-color-primary-hover: #ffa40d;
+  --slithe-pixel-background-color-primary-active: #ee9400;
+
+  --slithe-pixel-background-color-danger: #CC0000;
+  --slithe-pixel-background-color-danger-hover: #b80000;
+  --slithe-pixel-background-color-danger-active: #a30000;
+
+  --slithe-pixel-background-color-transparent: transparent;
+  --slithe-pixel-background-color-transparent-hover: rgba(255, 255, 255, .1);
+  --slithe-pixel-background-color-transparent-active: rgba(255, 255, 255, .2);
+
+  --slithe-pixel-border-color: #FFFFFF;
+  --slithe-pixel-border-color-2: #e6e6e6;
+
+  --slithe-pixel-outline-inset-color: #000000;
+  --slithe-pixel-before-border-light: rgba(0, 0, 0, .25);
+  --slithe-pixel-before-border-dark: rgba(255, 255, 255, .25);
+}

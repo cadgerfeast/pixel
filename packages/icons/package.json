@@ -1,0 +1,35 @@
+{
+  "name": "@pixel/icons",
+  "description": "Pixel Styled Icons",
+  "type": "module",
+  "version": "0.0.14",
+  "main": "dist/icons.json",
+  "types": "dist/icons.d.ts",
+  "scripts": {
+    "build": "node build.js"
+  },
+  "keywords": [
+    "pixel",
+    "icons",
+    "pixel-icons"
+  ],
+  "author": "Jérémie Pichon <contact@cadgerfeast.com>",
+  "license": "MIT",
+  "files": [
+    "dist",
+    "fonts",
+    "png-16",
+    "png-32",
+    "png-64",
+    "png-128",
+    "png-256",
+    "png-512",
+    "png-1024",
+    "svg"
+  ],
+  "devDependencies": {
+    "fs-extra": "^11.2.0",
+    "sharp": "^0.33.5",
+    "svgtofont": "^6.2.0"
+  }
+}

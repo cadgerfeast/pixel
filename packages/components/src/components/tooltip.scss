@@ -1,0 +1,19 @@
+// Common
+:host {
+  --slithe-pixel-tooltip-background-color: var(--slithe-pixel-background-color-2);
+  --slithe-pixel-tooltip-color: var(--slithe-pixel-text-color-3);
+  --slithe-pixel-tooltip-border-color: var(--slithe-pixel-border-color-2);
+}
+// Tooltip
+div.sl-tooltip {
+  font-family: var(--slithe-pixel-font-family);
+  position: fixed;
+  z-index: 5;
+  display: inline-flex;
+  background-color: var(--slithe-pixel-tooltip-background-color);
+  color: var(--slithe-pixel-tooltip-color);
+  border: 2px solid var(--slithe-pixel-tooltip-border-color);
+  user-select: none;
+  padding: 5px 10px;;
+  font-size: 12px;
+}

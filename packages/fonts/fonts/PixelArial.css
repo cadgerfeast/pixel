@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'PixelArial';
+  src: url('PixelArial.eot');
+  src: url('PixelArial.eot?#iefix') format('embedded-opentype'),
+      url('PixelArial.woff2') format('woff2'),
+      url('PixelArial.woff') format('woff'),
+      url('PixelArial.ttf') format('truetype'),
+      url('PixelArial.svg#PixelArial') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'PixelArial';
+  src: url('PixelArialBold.eot');
+  src: url('PixelArialBold.eot?#iefix') format('embedded-opentype'),
+      url('PixelArialBold.woff2') format('woff2'),
+      url('PixelArialBold.woff') format('woff'),
+      url('PixelArialBold.ttf') format('truetype'),
+      url('PixelArialBold.svg#PixelArialBold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+}
