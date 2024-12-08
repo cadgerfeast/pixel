@@ -1,7 +1,7 @@
 {
   "name": "@pixel/components",
   "description": "Pixel Slithe Theme",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "type": "module",
   "module": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -31,8 +31,8 @@
     "vite-plugin-dts": "^4.3.0"
   },
   "dependencies": {
-    "@pixel/fonts": "*",
-    "@pixel/icons": "*"
+    "@pixel/fonts": "^0.0.2",
+    "@pixel/icons": "^0.0.15"
   },
   "peerDependencies": {
     "slithe": "^0.6.1"

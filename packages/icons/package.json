@@ -2,7 +2,7 @@
   "name": "@pixel/icons",
   "description": "Pixel Styled Icons",
   "type": "module",
-  "version": "0.0.14",
+  "version": "0.0.15",
   "main": "dist/icons.json",
   "types": "dist/icons.d.ts",
   "scripts": {

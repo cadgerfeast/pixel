@@ -1,6 +1,6 @@
 {
   "name": "@pixel/fonts",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Jérémie Pichon <contact@cadgerfeast.com>",
   "description": "Webonts with a Pixel style.",
   "main": "fonts/PixelArial.css",
