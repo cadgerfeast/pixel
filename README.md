@@ -10,7 +10,7 @@ It has been built to be as flexible as possible, so you can customize components
 
 ## 📄 Get Started
 
-Please check out the official documentation to get started using **Slithe**, visit [slithe.cadgerfeast.dev](https://slithe.cadgerfeast.dev).
+Please check out the official documentation to get started using **Slithe**, visit [slithe.cadgerfeast.com](https://slithe.cadgerfeast.com).
 
 ## 👏 Contributing
 
